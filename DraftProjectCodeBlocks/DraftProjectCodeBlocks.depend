@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1725173146 source:c:\workspace\c\draftprojectcodeblocks\main.c
+	"main.h"
+
+1725173121 c:\workspace\c\draftprojectcodeblocks\main.h
+	<stdio.h>
+	<stdlib.h>
+	"utilities.h"
+
+1725171457 c:\workspace\c\draftprojectcodeblocks\utilities.h
+	<stdio.h>
+	<stdlib.h>
+
+1725171615 source:c:\workspace\c\draftprojectcodeblocks\main.h
+	<stdio.h>
+	<stdlib.h>
+
+1725171457 source:c:\workspace\c\draftprojectcodeblocks\utilities.h
+	<stdio.h>
+	<stdlib.h>
+
+1725173087 source:c:\workspace\c\draftprojectcodeblocks\utilities.c
+	"utilities.h"
+
