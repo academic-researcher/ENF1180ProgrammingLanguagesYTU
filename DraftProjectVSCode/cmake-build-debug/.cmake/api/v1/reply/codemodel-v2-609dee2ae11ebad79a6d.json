@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DraftProjectVSCode",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DraftProjectVSCode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DraftProjectVSCode-Debug-db17010c82e2ef4e333f.json",
+					"name" : "DraftProjectVSCode",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectVSCode/cmake-build-debug",
+		"source" : "/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectVSCode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

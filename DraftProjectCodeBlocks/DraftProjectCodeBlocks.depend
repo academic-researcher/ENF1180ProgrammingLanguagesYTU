@@ -22,3 +22,18 @@
 1725173087 source:c:\workspace\c\draftprojectcodeblocks\utilities.c
 	"utilities.h"
 
+1725693467 source:/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectCodeBlocks/main.c
+	"main.h"
+
+1725693467 /home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectCodeBlocks/main.h
+	<stdio.h>
+	<stdlib.h>
+	"utilities.h"
+
+1725693467 /home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectCodeBlocks/utilities.h
+	<stdio.h>
+	<stdlib.h>
+
+1725693467 source:/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectCodeBlocks/utilities.c
+	"utilities.h"
+

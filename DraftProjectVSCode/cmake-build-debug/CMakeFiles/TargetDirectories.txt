@@ -1,0 +1,3 @@
+/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectVSCode/cmake-build-debug/CMakeFiles/DraftProjectVSCode.dir
+/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectVSCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/esra/Workspace/Repos/ENF1180ProgrammingLanguagesYTU/DraftProjectVSCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
