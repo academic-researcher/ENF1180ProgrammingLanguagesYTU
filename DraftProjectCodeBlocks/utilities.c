@@ -2,5 +2,6 @@
 
 void print_text(void)
 {
-    printf("I love C programming! Yeeyyy\n");
+    printf("I love C programming I will learn very well! Yeeyyy\n");
+
 }
